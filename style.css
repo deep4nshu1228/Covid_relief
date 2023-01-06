@@ -1,0 +1,28 @@
+.main{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+max-width: 800px; 
+margin:auto;
+margin-bottom: 30px;
+margin-top: 30px;
+}
+.cities{
+text-decoration: none;
+color:	#1DA1F2;
+}
+.gov{
+display: flex;
+justify-content: center;
+}
+.official{
+background-color: rgb(0, 137, 250);
+border: none;
+color: rgb(255, 255, 255);
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 16px;
+}
